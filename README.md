@@ -5,6 +5,7 @@ Overview
 - React (Vite) + SCSS chat UI for the news RAG backend
 - Shows history, sends messages, displays Gemini answers
 - Reset session button and basic error banners
+- **Coverage**: Global/world news, Pakistan, India national; all Indian states and their main cities; strong focus on IT/business and AI across major hubs (Bengaluru, Hyderabad, Pune, Chennai, Gurugram, Noida, Mumbai, Delhi)
 
 Run locally
 
@@ -31,3 +32,21 @@ Features
 - Auto-creates a session on first send
 - Renders user/bot messages and basic typing state
 - Reset session clears server history and local view
+
+Example questions the chatbot answers well
+
+- Latest IT business headlines in India today
+- Bengaluru AI business headlines today
+- Hyderabad IT industry updates today
+- Punjab top news today
+- Karnataka headlines today
+- Mumbai business headlines today
+- Chandigarh headlines today
+- Pakistan business headlines today
+- World top headlines right now
+- Global markets news today
+- Delhi AI startup news today
+- Pune IT services news today
+- Chennai tech headlines today
+- Gurugram startup funding news today
+- Noida IT park news today
